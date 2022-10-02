@@ -14,7 +14,7 @@ https://whisperxxxx2.shinyapps.io/myShinyapplication/
 
 a link of server.R and ui.R code on github:
 https://github.com/whisperxxxx2/shiny-week4-assignment
-
+(you may need to paste and copy the link by yourself rather than clicking)
 ## Target Data
 ```{r}
 head(WorldPhones)
